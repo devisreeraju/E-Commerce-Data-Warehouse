@@ -121,7 +121,7 @@ It reflects real-world data analyst responsibilities.
 
 ## 👩‍💻 Author
 
-Haritha (Gunni)
+DEVI 
 MCA Student | Aspiring Data Analyst
 
 ---
